@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rivers Leaderboards</title>
+    <link rel="stylesheet" href="bootstrap.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Boldonse&family=Mozilla+Text:wght@200..700&family=Permanent+Marker&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="container pt-4">
+        <div class="d-flex justify-content-center align-items-center">
+            <img src="assets/rivers_logo_tp.png" alt="Rivers Logo" style="height: 70px;">
+            <img src="assets/Beyblade_X_Logo.svg" alt="Rivers Logo" style="height: 30px; filter: invert(1);">
+        </div>
+        <h1 class="text-center">River Bladers</h1>
+        <h3 class="text-center">Leaderboard</h3>
+        <div id="leaderboard" class="mt-4">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th scope="col" style="width: 8%;">Rank</th>
+                        <th scope="col" style="width: 15%;">Group</th>
+                        <th scope="col" style="width: 57%;">Blader name</th>
+                        <th scope="col" style="width: 10%;">W</th>
+                        <th scope="col" style="width: 10%;">L</th>
+                        <th scope="col" style="width: 10%;">Diff</th>
+                    </tr>
+                </thead>
+                <tbody id="leaderboard-body">
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+
+    <script>
+        fetch('data/stats.json')
+            .then(response => response.json())
+            .then(data => {
+                const tags = {
+                    'hydra': 'bg-primary',
+                    'rivers': 'bg-info',
+                };
+                const tbody = document.getElementById('leaderboard-body');
+                tbody.innerHTML = '';
+                const sortedPlayers = data.groupStage.slice().sort((a, b) => {
+                    const diffA = a.wins - a.loses;
+                    const diffB = b.wins - b.loses;
+                    return diffB - diffA;
+                });
+
+                sortedPlayers.forEach((player, idx) => {
+                    setTimeout(() => {
+                        const diff = player.wins - player.loses;
+                        const diffClass = diff > 0 ? 'text-success' : diff < 0 ? 'text-danger' : '';
+                        const tr = document.createElement('tr');
+                        if (idx % 2 === 0) tr.classList.add('table-active');
+                        tr.classList.add('animate__animated', 'animate__backInLeft');
+                        let tagKey = Object.keys(tags).find(tag => player.name.toLowerCase().includes(tag));
+                        let badge = '-';
+                        if (tagKey) {
+                            badge = `<span class="badge rounded-pill ${idx===0 ? 'bg-dark': `${tags[tagKey]}`}">${tagKey}</span>`
+                        }
+                        if (idx === 0) {
+                            tr.classList.add('table-primary');
+                        }
+                        tr.innerHTML = `
+                            <th scope="row">${idx === 0 ? '👑' : idx + 1}</th>
+                            <td>${badge}</td>
+                            <td><h6 ${idx === 0? 'class="animate__animated animate__pulse animate__infinite"': ''}>${player.name}</h6></td>
+                            <td>${player.wins}</td>
+                            <td>${player.loses}</td>
+                            <td class="${diffClass}">${diff > 0 ? '+' : ''}${diff}</td>
+                        `;
+                        tbody.appendChild(tr);
+                    }, idx * 100);
+                });
+            })
+            .catch(error => {
+                console.error('Error loading JSON:', error);
+            });
+    </script>
+</body>
+
+</html>

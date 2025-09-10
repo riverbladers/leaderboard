@@ -1,0 +1,344 @@
+{
+    "groupStage": [
+        {
+            "name": "LB.NTHN",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "RON",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "SIR CHIEF",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "PAUL",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "TRALALERO TRALALA",
+            "wins": 4,
+            "loses": 1
+        },
+        {
+            "name": "MAANGHANG",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "BINI RA",
+            "wins": 2,
+            "loses": 3
+        },
+        {
+            "name": "SBT.REZCURTIS",
+            "wins": 4,
+            "loses": 1
+        },
+        {
+            "name": "UPK.BADMEEKO",
+            "wins": 1,
+            "loses": 4
+        },
+        {
+            "name": "EKSKRU",
+            "wins": 4,
+            "loses": 1
+        },
+        {
+            "name": "KD",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "Judge.Kev",
+            "wins": 2,
+            "loses": 3
+        },
+        {
+            "name": "HAI",
+            "wins": 4,
+            "loses": 1
+        },
+        {
+            "name": "Judge Wawa",
+            "wins": 2,
+            "loses": 3
+        },
+        {
+            "name": "IBCAR",
+            "wins": 0,
+            "loses": 4
+        },
+        {
+            "name": "RUMARAGASANG B",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "HYDRA SANTINO",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "T2.GEORGIEBOY",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "SALTY X ABI",
+            "wins": 1,
+            "loses": 4
+        },
+        {
+            "name": "DM",
+            "wins": 1,
+            "loses": 4
+        },
+        {
+            "name": "Judge binteezy",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "PERDIGANA",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "BALLERINA CAPPUCCINA",
+            "wins": 4,
+            "loses": 1
+        },
+        {
+            "name": "SOUP",
+            "wins": 2,
+            "loses": 3
+        },
+        {
+            "name": "INOCHI",
+            "wins": 2,
+            "loses": 3
+        },
+        {
+            "name": "BALATINOW",
+            "wins": 2,
+            "loses": 3
+        },
+        {
+            "name": "BREFE",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "Reese",
+            "wins": 2,
+            "loses": 3
+        },
+        {
+            "name": "anie",
+            "wins": 2,
+            "loses": 3
+        },
+        {
+            "name": "LUCYFEAR",
+            "wins": 2,
+            "loses": 3
+        },
+        {
+            "name": "TAIKA",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "Lando No Wins",
+            "wins": 2,
+            "loses": 3
+        },
+        {
+            "name": "Mahags",
+            "wins": 4,
+            "loses": 1
+        },
+        {
+            "name": "PAMPERSSS",
+            "wins": 1,
+            "loses": 4
+        },
+        {
+            "name": "WHANG OD",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "SBT.BonakHumatak",
+            "wins": 0,
+            "loses": 5
+        },
+        {
+            "name": "ADRIAN",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "CHEESEBURGER",
+            "wins": 2,
+            "loses": 3
+        },
+        {
+            "name": "GENJI",
+            "wins": 1,
+            "loses": 4
+        },
+        {
+            "name": "SBT.Kwentong Pekto",
+            "wins": 1,
+            "loses": 4
+        },
+        {
+            "name": "Le Tank",
+            "wins": 4,
+            "loses": 1
+        },
+        {
+            "name": "NIGEL",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "JJ",
+            "wins": 1,
+            "loses": 4
+        },
+        {
+            "name": "REGINA PHILANGE",
+            "wins": 2,
+            "loses": 3
+        },
+        {
+            "name": "RBIT",
+            "wins": 4,
+            "loses": 1
+        },
+        {
+            "name": "EEVEE CHAN",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "GABO",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "HYDRA LOKIMAN",
+            "wins": 5,
+            "loses": 0
+        },
+        {
+            "name": "DINODAD",
+            "wins": 2,
+            "loses": 3
+        },
+        {
+            "name": "LB MIGUEL",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "MDJ",
+            "wins": 1,
+            "loses": 4
+        },
+        {
+            "name": "RANDELL",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "JLEN",
+            "wins": 2,
+            "loses": 3
+        },
+        {
+            "name": "HAYME",
+            "wins": 2,
+            "loses": 3
+        },
+        {
+            "name": "Judge Haze",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "joms",
+            "wins": 4,
+            "loses": 1
+        },
+        {
+            "name": "WATCH RICHII",
+            "wins": 2,
+            "loses": 3
+        },
+        {
+            "name": "LIRILI LARILA",
+            "wins": 2,
+            "loses": 3
+        },
+        {
+            "name": "Sora",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "Maera",
+            "wins": 2,
+            "loses": 3
+        },
+        {
+            "name": "HANNAH",
+            "wins": 3,
+            "loses": 2
+        },
+        {
+            "name": "Nepa",
+            "wins": 0,
+            "loses": 4
+        },
+        {
+            "name": "DADDICHING",
+            "wins": 4,
+            "loses": 1
+        },
+        {
+            "name": "WILDBOI",
+            "wins": 2,
+            "loses": 3
+        },
+        {
+            "name": "Judge John Sword",
+            "wins": 2,
+            "loses": 3
+        },
+        {
+            "name": "RD",
+            "wins": 1,
+            "loses": 4
+        },
+        {
+            "name": "TUNGTUNG SAHUR",
+            "wins": 5,
+            "loses": 0
+        },
+        {
+            "name": "ELEX",
+            "wins": 1,
+            "loses": 4
+        }
+    ]
+}
