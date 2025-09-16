@@ -1,62 +1,62 @@
 {
     "groupStage": [
         {
-            "name": "Genji",
-            "wins": 7,
+            "name": "JEM BANG!",
+            "wins": 8,
             "rank": 1
         },
         {
-            "name": "MAANGHANG",
+            "name": "Genji",
             "wins": 7,
             "rank": 2
         },
         {
-            "name": "Maera",
+            "name": "MAANGHANG",
             "wins": 7,
             "rank": 3
         },
         {
-            "name": "Binteezy",
-            "wins": 6,
+            "name": "Maera",
+            "wins": 7,
             "rank": 4
         },
         {
-            "name": "Reese",
+            "name": "Binteezy",
             "wins": 6,
             "rank": 5
         },
         {
-            "name": "Terebells",
+            "name": "Reese",
             "wins": 6,
             "rank": 6
         },
         {
-            "name": "Judezilla",
-            "wins": 5,
+            "name": "Terebells",
+            "wins": 6,
             "rank": 7
         },
         {
-            "name": "Randell",
+            "name": "Judezilla",
             "wins": 5,
             "rank": 8
         },
         {
-            "name": "Reverie",
+            "name": "Randell",
             "wins": 5,
             "rank": 9
         },
         {
-            "name": "Mahags",
+            "name": "Reverie",
             "wins": 5,
             "rank": 10
         },
         {
-            "name": "Iyo",
-            "wins": 4,
+            "name": "Mahags",
+            "wins": 5,
             "rank": 11
         },
         {
-            "name": "JEM-BANG!",
+            "name": "Iyo",
             "wins": 4,
             "rank": 12
         },
@@ -81,264 +81,259 @@
             "rank": 16
         },
         {
-            "name": "JEM BANG!",
+            "name": "Delynx",
             "wins": 4,
             "rank": 17
         },
         {
-            "name": "Delynx",
+            "name": "JKL",
             "wins": 4,
             "rank": 18
         },
         {
-            "name": "JKL",
-            "wins": 4,
-            "rank": 19
-        },
-        {
             "name": "T2.Georgieboy",
             "wins": 3,
-            "rank": 20
+            "rank": 19
         },
         {
             "name": "JohnSword",
             "wins": 3,
-            "rank": 21
+            "rank": 20
         },
         {
             "name": "kid",
             "wins": 3,
-            "rank": 22
+            "rank": 21
         },
         {
             "name": "Lucyfear",
             "wins": 3,
-            "rank": 23
+            "rank": 22
         },
         {
             "name": "Daniel",
             "wins": 3,
-            "rank": 24
+            "rank": 23
         },
         {
             "name": "Sushi",
             "wins": 3,
-            "rank": 25
+            "rank": 24
         },
         {
             "name": "Papa P",
             "wins": 3,
-            "rank": 26
+            "rank": 25
         },
         {
             "name": "Yeshua",
             "wins": 3,
-            "rank": 27
+            "rank": 26
         },
         {
             "name": "Toast",
             "wins": 3,
-            "rank": 28
+            "rank": 27
         },
         {
             "name": "Mr. Boy",
             "wins": 3,
-            "rank": 29
+            "rank": 28
         },
         {
             "name": "Egoy",
             "wins": 3,
-            "rank": 30
+            "rank": 29
         },
         {
             "name": "GH",
             "wins": 3,
-            "rank": 31
+            "rank": 30
         },
         {
             "name": "ASW. AA Pat",
             "wins": 3,
-            "rank": 32
+            "rank": 31
         },
         {
             "name": "Arkus",
             "wins": 3,
-            "rank": 33
+            "rank": 32
         },
         {
             "name": "Hydra Ngani",
             "wins": 3,
-            "rank": 34
+            "rank": 33
         },
         {
             "name": "Hydra Lokiman",
             "wins": 3,
-            "rank": 35
+            "rank": 34
         },
         {
             "name": "ina",
             "wins": 3,
-            "rank": 36
+            "rank": 35
         },
         {
             "name": "Hydra NaughtyPig",
             "wins": 3,
-            "rank": 37
+            "rank": 36
         },
         {
             "name": "Shock-zero",
             "wins": 2,
-            "rank": 38
+            "rank": 37
         },
         {
             "name": "Eris",
             "wins": 2,
-            "rank": 39
+            "rank": 38
         },
         {
             "name": "Doms Reid",
             "wins": 2,
-            "rank": 40
+            "rank": 39
         },
         {
             "name": "SaltyXAbi",
             "wins": 2,
-            "rank": 41
+            "rank": 40
         },
         {
             "name": "Tyranno Whin",
             "wins": 2,
-            "rank": 42
+            "rank": 41
         },
         {
             "name": "Carrots",
             "wins": 2,
-            "rank": 43
+            "rank": 42
         },
         {
             "name": "Igo",
             "wins": 2,
-            "rank": 44
+            "rank": 43
         },
         {
             "name": "Puno ng saging",
             "wins": 2,
-            "rank": 45
+            "rank": 44
         },
         {
             "name": "mumaii",
             "wins": 2,
-            "rank": 46
+            "rank": 45
         },
         {
             "name": "Heraldo",
             "wins": 2,
-            "rank": 47
+            "rank": 46
         },
         {
             "name": "Golden Winner",
             "wins": 2,
-            "rank": 48
+            "rank": 47
         },
         {
             "name": "Sojiro",
             "wins": 2,
-            "rank": 49
+            "rank": 48
         },
         {
             "name": "Rav",
             "wins": 2,
-            "rank": 50
+            "rank": 49
         },
         {
             "name": "Hydra Frixx",
             "wins": 2,
-            "rank": 51
+            "rank": 50
         },
         {
             "name": "Hydra GG",
             "wins": 2,
-            "rank": 52
+            "rank": 51
         },
         {
             "name": "wildboi",
             "wins": 2,
-            "rank": 53
+            "rank": 52
         },
         {
             "name": "ASIAN CUTIE",
             "wins": 2,
-            "rank": 54
+            "rank": 53
         },
         {
             "name": "Roca",
             "wins": 1,
-            "rank": 55
+            "rank": 54
         },
         {
             "name": "Jpresko",
             "wins": 1,
-            "rank": 56
+            "rank": 55
         },
         {
             "name": "DM",
             "wins": 1,
-            "rank": 57
+            "rank": 56
         },
         {
             "name": "Kuya Lando",
             "wins": 1,
-            "rank": 58
+            "rank": 57
         },
         {
             "name": "LZK",
             "wins": 1,
-            "rank": 59
+            "rank": 58
         },
         {
             "name": "Champion Dylan",
             "wins": 1,
-            "rank": 60
+            "rank": 59
         },
         {
             "name": "Ekskru",
             "wins": 1,
-            "rank": 61
+            "rank": 60
         },
         {
             "name": "Sir Chief",
             "wins": 1,
-            "rank": 62
+            "rank": 61
         },
         {
             "name": "Aki",
             "wins": 1,
-            "rank": 63
+            "rank": 62
         },
         {
             "name": "Fluffy",
             "wins": 1,
-            "rank": 64
+            "rank": 63
         },
         {
             "name": "Jason",
             "wins": 1,
-            "rank": 65
+            "rank": 64
         },
         {
             "name": "Stab",
             "wins": 1,
-            "rank": 66
+            "rank": 65
         },
         {
             "name": "BYE",
             "wins": 0,
-            "rank": 67
+            "rank": 66
         },
         {
             "name": "inochi",
             "wins": 0,
-            "rank": 68
+            "rank": 67
         }
     ]
 }
