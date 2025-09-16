@@ -1,9 +1,49 @@
-body, h2, h3, h4, h5, h6, p, span, a, li, td, th, div, input, button, label {
-    font-family: "Permanent Marker", cursive;
+.sub-header {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
     color: white;
 }
 
-tr {
-    height: 50px;
-    vertical-align: middle;
+.header {
+    font-family: 'Sprite Graffiti';
+    color: white;
+    font-size: 60px;
+}
+
+@font-face {
+    font-family: 'Sprite Graffiti';
+    src: url('fonts/Sprite Graffiti.otf') format('opentype');
+}
+
+body {
+    color: white !important;
+    background-color: black !important;
+    background-image: none !important;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1
+}
+
+html {
+    height: 100%;
+}
+
+.animate__delay-250ms {
+    animation-delay: 250ms;
+}
+
+.animate__delay-500ms {
+    animation-delay: 500ms;
+}
+
+.animate__delay-750ms {
+    animation-delay: 750ms;
 }
