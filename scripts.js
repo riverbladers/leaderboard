@@ -12,7 +12,7 @@ const loadData = (data) => {
         if (idx > 19) return;
         const div = document.createElement('div');
         div.classList.add('animate__animated', 'row', 'd-flex', 'justify-content-between');
-        let tagKey = Object.keys(tags).find(tag => player.name.toUpperCase().includes(tag));
+        let tagKey = Object.keys(tags).find(tag => player.name.toUpperCase().startsWith(tag));
         let badge = '-';
         if ([1, 2, 3].includes(player.rank)) {
             div.classList.add(`animate__delay-${(4-player.rank)*250}ms`, 'animate__lightSpeedInLeft', 'animate__faster');
