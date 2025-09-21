@@ -2,8 +2,9 @@ const loadData = (data) => {
         document.getElementById('leaderboard-header').style.display = 'block';
     const tags = {
         'HYDRA': 'bg-primary',
-        'RIVERS': 'bg-info',
+        'RB': 'bg-info',
         'T2': 'bg-success',
+        'UPK': 'bg-danger'
     };
     const leaderboardBody = document.getElementById('leaderboard-body');
     leaderboardBody.innerHTML = '';
