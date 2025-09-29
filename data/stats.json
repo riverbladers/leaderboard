@@ -206,82 +206,82 @@
             "rank": 41
         },
         {
-            "name": "MECHA",
+            "name": "River.Seraphim",
             "wins": 3,
             "rank": 42
         },
         {
-            "name": "Chupapi Muñaño",
+            "name": "MECHA",
             "wins": 3,
             "rank": 43
         },
         {
-            "name": "Chan",
+            "name": "Chupapi Muñaño",
             "wins": 3,
             "rank": 44
         },
         {
-            "name": "ENZO",
+            "name": "Chan",
             "wins": 3,
             "rank": 45
         },
         {
-            "name": "Blader X",
+            "name": "ENZO",
             "wins": 3,
             "rank": 46
         },
         {
-            "name": "sushi",
+            "name": "Blader X",
             "wins": 3,
             "rank": 47
         },
         {
-            "name": "Genji",
+            "name": "sushi",
             "wins": 3,
             "rank": 48
         },
         {
-            "name": "enjin",
+            "name": "Genji",
             "wins": 3,
             "rank": 49
         },
         {
-            "name": "Shadow",
+            "name": "enjin",
             "wins": 3,
             "rank": 50
         },
         {
-            "name": "Nandudura Pag Talo",
-            "wins": 2,
+            "name": "Shadow",
+            "wins": 3,
             "rank": 51
         },
         {
-            "name": "Skoll",
+            "name": "Nandudura Pag Talo",
             "wins": 2,
             "rank": 52
         },
         {
-            "name": "Dibidibidapdap",
+            "name": "Skoll",
             "wins": 2,
             "rank": 53
         },
         {
-            "name": "BB8.Janno",
+            "name": "Dibidibidapdap",
             "wins": 2,
             "rank": 54
         },
         {
-            "name": "Franz",
+            "name": "BB8.Janno",
             "wins": 2,
             "rank": 55
         },
         {
-            "name": "UPK.BadMeeko",
+            "name": "Franz",
             "wins": 2,
             "rank": 56
         },
         {
-            "name": "Joi",
+            "name": "UPK.BadMeeko",
             "wins": 2,
             "rank": 57
         },
@@ -416,19 +416,14 @@
             "rank": 83
         },
         {
-            "name": "River.Seraphim",
-            "wins": 1,
-            "rank": 84
-        },
-        {
             "name": "Gio",
             "wins": 0,
-            "rank": 85
+            "rank": 84
         },
         {
             "name": "BYE",
             "wins": 0,
-            "rank": 86
+            "rank": 85
         }
     ]
 }
