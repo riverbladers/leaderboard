@@ -47,3 +47,8 @@ html {
 .animate__delay-750ms {
     animation-delay: 750ms;
 }
+
+.bg-green {
+  --bs-bg-opacity: 1;
+  background-color: green !important;
+}

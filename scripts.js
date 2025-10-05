@@ -4,7 +4,8 @@ const loadData = (data) => {
         'HYDRA': 'bg-primary',
         'RIVER': 'bg-info',
         'T2': 'bg-success',
-        'UPK': 'bg-danger'
+        'UPK': 'bg-danger',
+        'KWYN': 'bg-green'
     };
     const leaderboardBody = document.getElementById('leaderboard-body');
     leaderboardBody.innerHTML = '';
