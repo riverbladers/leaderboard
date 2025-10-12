@@ -121,23 +121,23 @@
             "rank": 24
         },
         {
-            "name": "River.LUCYFEAR",
+            "name": "River.JJ",
             "wins": 7,
             "rank": 25
         },
         {
-            "name": "Rbit",
+            "name": "River.LUCYFEAR",
             "wins": 7,
             "rank": 26
         },
         {
-            "name": "River.AsianQt",
+            "name": "Rbit",
             "wins": 7,
             "rank": 27
         },
         {
-            "name": "River.JJ",
-            "wins": 6,
+            "name": "River.AsianQt",
+            "wins": 7,
             "rank": 28
         },
         {
@@ -226,7 +226,7 @@
             "rank": 45
         },
         {
-            "name": "Le Tank",
+            "name": "River.LeTank",
             "wins": 4,
             "rank": 46
         },
@@ -281,7 +281,7 @@
             "rank": 56
         },
         {
-            "name": "Kitty",
+            "name": "River.Kitty",
             "wins": 4,
             "rank": 57
         },
@@ -626,44 +626,39 @@
             "rank": 125
         },
         {
-            "name": "Dispenser",
+            "name": "Clobear",
             "wins": 1,
             "rank": 126
         },
         {
-            "name": "Clobear",
+            "name": "River.Pokelow",
             "wins": 1,
             "rank": 127
         },
         {
-            "name": "Pokelow",
+            "name": "Roem",
             "wins": 1,
             "rank": 128
         },
         {
-            "name": "Roem",
-            "wins": 1,
-            "rank": 129
-        },
-        {
             "name": "Nar",
             "wins": 0.5,
-            "rank": 130
+            "rank": 129
         },
         {
             "name": "Gio",
             "wins": 0,
-            "rank": 131
+            "rank": 130
         },
         {
             "name": "BYE",
             "wins": 0,
-            "rank": 132
+            "rank": 131
         },
         {
             "name": "Lando No Wins",
             "wins": 0,
-            "rank": 133
+            "rank": 132
         }
     ]
 }
